@@ -1,0 +1,7 @@
+url=https://login.salesforce.com
+username=username@domain.org
+password=org_password
+token=security_token
+relation=Opportunity
+query=SELECT * FROM Opportunity LIMIT 500
+class=IsWon
